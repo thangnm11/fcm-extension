@@ -10,8 +10,8 @@
  // Initialize the Firebase app in the service worker by passing in the
  // messagingSenderId.
  var config = {
-  apiKey: "AIzaSyAB1ZCMpMhAXCR9ICckIkHftTmvR4pSf_8",
-  messagingSenderId: "152016073203"
+  apiKey: "AIzaSyAyq7MVHhZyLa4HWDy_oBIjigffG7R2GDw",
+  messagingSenderId: "44953458201"
 };
 firebase.initializeApp(config);
 

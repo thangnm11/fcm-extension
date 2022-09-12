@@ -5,8 +5,8 @@
   });
 
 var config = {
-    apiKey: "AIzaSyAB1ZCMpMhAXCR9ICckIkHftTmvR4pSf_8",
-    messagingSenderId: "152016073203"
+    apiKey: "AIzaSyAyq7MVHhZyLa4HWDy_oBIjigffG7R2GDw",
+    messagingSenderId: "44953458201"
   };
   firebase.initializeApp(config);
     // [START get_messaging_object]
@@ -15,7 +15,7 @@ var config = {
     // [END get_messaging_object]
     // [START set_public_vapid_key]
     // Add the public key generated from the console here.
-    messaging.usePublicVapidKey('BFJ3fV1ypf3DuWplNLV4skz7u2_iXILwR0QDVsvsSgBW7zcV2wIRljYz1Pl7GhIGQnIoU3ewbyZEbcnB1IgYqio');
+    messaging.usePublicVapidKey('BCMLiXcqKTxGUPkNbEIUZIm8pDrWmrrmXXJcRQtKEVvm4SVHwEK_4VTav2OnQ8ydwhYtq7u8DW3-13nDkFL4mSo');
     // [END set_public_vapid_key]
   
     // IDs of divs that display Instance ID token UI or request permission UI.
